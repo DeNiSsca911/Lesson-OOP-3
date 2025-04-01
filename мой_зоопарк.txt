@@ -1,0 +1,8 @@
+Животные:
+Bird,Кеша,2
+Mammal,Симба,5
+Reptile,Каа,3
+
+Сотрудники:
+ZooKeeper,Иван
+Veterinarian,Мария
